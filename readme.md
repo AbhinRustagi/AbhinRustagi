@@ -1,19 +1,7 @@
-## Hi there! 🙋‍♂️
+## Hello! 🙋‍♂️
 
-I'm **Abhin Rustagi**. I'm a product developer who loves designing user-first products, that deliver experiences.
+I am **Abhin Rustagi**, a product focused engineer who loves contributing to user-first products, and improving user experiences. I am an avid learner, with close to 2 years of experience hacking my way around the world of practical software development. I regularly use Javascript, Typescript & Python. 
 
-**BIO**
+I am currently working as a Product Engineer at [Openhouse](https://www.openhouse.study/).
 
-- 🛠 I use daily
-  - Typescript
-  - Python
-  - Javascript
-  - CSS
-  - Markdown
-  - and a lot more stuff!
-- 🏢 Currently working at [Openhouse](https://www.openhouse.study/), as a Product Engineer.
-- 🕸 Check out my personal website at [abhin.dev](https://www.abhin.dev/).
-- 🏫 Consistently trying to learn newer cool tech!
-- ✉ Ping me about **development or design**.
-- 📬 Reach me [via email](mailto:hi@abhin.dev).
-- 🎈 Fun fact: I'm a huge Coffee enthusiast!
+[Email](mailto:hi@abhin.dev) • [Personal Website](https://www.abhin.dev/) • [LinkedIn](https://www.linkedin.com/in/abhinrustagi)
