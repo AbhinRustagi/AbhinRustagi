@@ -4,4 +4,4 @@ I am **Abhin Rustagi**, a product focused engineer who loves contributing to use
 
 I am currently working as a Product Engineer at [Openhouse](https://www.openhouse.study/), and volunteer as a frontend developer at [ReWorld](https://www.reworld.eco/).
 
-[Email](mailto:hi@abhin.dev) • [Personal Website](https://www.abhin.dev/) • [LinkedIn](https://www.linkedin.com/in/abhinrustagi)
+[Email](mailto:hi@abhin.dev) • [Personal Website](https://www.abhin.dev/) • [LinkedIn](https://www.linkedin.com/in/abhinrustagi) • [Twitter](https://www.twitter.com/abhinrustagi)
