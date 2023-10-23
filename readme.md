@@ -4,6 +4,6 @@ I am **Abhin Rustagi**, a product-focused engineer who loves contributing to use
 
 I am a graduate student at the [University of Melbourne](https://www.unimelb.edu.au/) and I volunteer as a developer at [ReWorld](https://www.reworld.eco/).
 
-I have played around with the following languages - Javascript, Typescript, Python, Java, HTML + CSS, Go.
+I play around with the following languages - Javascript, Typescript, Python, Java, HTML + CSS, and Go.
 
 [Email](mailto:hi@abhin.dev) • [Personal Website](https://www.abhin.dev/) • [LinkedIn](https://www.linkedin.com/in/abhinrustagi) • [Twitter](https://www.twitter.com/abhinrustagi)
