@@ -1,22 +1,44 @@
-## Hello there! 👋
+# Hello there, I'm Abhin! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px">
 
-I'm a product-focused engineer who loves contributing to user-first products and improving user experiences. I am an avid learner with over 2.5 years of experience hacking my way around product software development.
+**I'm a creative developer who loves building user-first software and helping computers think.**
 
-- Postgraduate AI student at the [University of Melbourne](https://www.unimelb.edu.au/)
-- I build and break using these - `JavaScript, TypeScript, Python, React, Go, Django, SQL, MongoDB`
-- I have worked with some amazing teams in different capacities (full-time and part-time):
-    - [Virtetic](https://www.virtetic.com.au/)
-    - [ReWorld Earth](https://www.reworld.eco/)
-    - [Openhouse](https://www.openhouse.study/)
-    - [Thesys](https://www.thesys.dev/)
-    - [Wetlands International](https://www.wetlands.org/)
-    - Pabio (YC21) (Now defunct)
-    - and [more](https://www.linkedin.com/in/abhinrustagi)!
-- Currently learning how to help computers think on their own. I'm interested in:
-  - Reinforcement Learning
-  - Computer Vision
-  - Recommender Systems
+✉️ [Email](mailto:hi@abhin.dev) • 🌐 [Website](https://www.abhin.dev/) • 👔 [LinkedIn](https://www.linkedin.com/in/abhinrustagi) • 🐦 [Twitter](https://www.twitter.com/abhinrustagi)
 
-### Let's get in touch!
+### Now
 
-[Email](mailto:hi@abhin.dev) • [Website](https://www.abhin.dev/) • [LinkedIn](https://www.linkedin.com/in/abhinrustagi) • [Twitter](https://www.twitter.com/abhinrustagi)
+- Postgraduate AI student at the [University of Melbourne](https://www.unimelb.edu.au/), wrapping up my studies in 2025.
+
+### 🧪 I'm interested in
+
+- Computer Vision
+- Reinforcement Learning
+- Distributed Systems
+- User Experience
+
+### 🛠️ What I usually work with
+
+- **Languages**: Python, Javascript, Typescript, Java, Go
+- **Frameworks**:
+    - FE: React, Next.js, Preact, Svelte, SvelteKit
+    - BE: Django, Flask, Node.js, Express.js
+- **DevOps**: Google Cloud, AWS, Docker
+- **Logging**: Datadog, NewRelic
+- **Databases**: Relational (SQL, PostgreSQL), Key-Value (Redis), NoSQL (MongoDB, Firebase)
+
+### 🗂️ (Some of the) Organisations I've worked with
+
+<!-- Add Something here -->
+
+- [Virtetic](https://www.virtetic.com.au/)
+- [ReWorld Earth](https://www.reworld.eco/)
+- [Openhouse](https://www.openhouse.study/)
+- [Thesys](https://www.thesys.dev/)
+- [Wetlands International](https://www.wetlands.org/)
+- [Pabio (YC21)](https://www.pabio.com) (Now defunct)
+- and [more](https://www.linkedin.com/in/abhinrustagi)!
+
+### 👥 Communities
+
+- Google Developer Student Clubs, University of Melbourne (2023)
+- CISSA, University of Melbourne (2024-25)
+- DSCubed, University of Melbourne (2024-25)
