@@ -4,7 +4,7 @@
 
 ✉️ [Email](mailto:hi@abhin.dev) • 🌐 [Website](https://www.abhin.dev/) • 👔 [LinkedIn](https://www.linkedin.com/in/abhinrustagi) • 🐦 [Twitter](https://www.twitter.com/abhinrustagi)
 
-### Now
+### 🕰️ Now
 
 - Postgraduate AI student at the [University of Melbourne](https://www.unimelb.edu.au/), wrapping up my studies in 2025.
 
@@ -27,10 +27,9 @@
 
 ### 🗂️ (Some of the) Organisations I've worked with
 
-<!-- Add Something here -->
+I have worked full-time and part-time with various teams.
 
 - [Virtetic](https://www.virtetic.com.au/)
-- [ReWorld Earth](https://www.reworld.eco/)
 - [Openhouse](https://www.openhouse.study/)
 - [Thesys](https://www.thesys.dev/)
 - [Wetlands International](https://www.wetlands.org/)
@@ -39,6 +38,9 @@
 
 ### 👥 Communities
 
+- [ReWorld Earth](https://www.reworld.eco/) (2022-23)
+
+
 - Google Developer Student Clubs, University of Melbourne (2023)
-- CISSA, University of Melbourne (2024-25)
-- DSCubed, University of Melbourne (2024-25)
+- [CISSA](https://www.cissa.org.au/), University of Melbourne (2024-25)
+- [DSCubed](https://www.dscubed.org.au/), University of Melbourne (2024-25)
