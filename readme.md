@@ -6,14 +6,7 @@
 
 ### 🕰️ Now
 
-- Postgraduate AI student at the [University of Melbourne](https://www.unimelb.edu.au/), wrapping up my studies in 2025.
-
-### 🧪 I'm interested in
-
-- Computer Vision
-- Reinforcement Learning
-- Distributed Systems
-- User Experience
+- Postgraduate AI student at the [University of Melbourne](https://www.unimelb.edu.au/), wrapping up my studies in June, 2025.
 
 ### 🛠️ What I usually work with
 
@@ -38,8 +31,8 @@ I have worked full-time and part-time with various teams.
 
 ### 👥 Communities
 
-- [ReWorld Earth](https://www.reworld.eco/) (2022-23)
+- [ReWorld Earth](https://www.reworld.eco/) (2022 - Present)
 - Google Developer Student Clubs, University of Melbourne (2023)
-- [CISSA](https://www.cissa.org.au/), University of Melbourne (2024- Present)
-- [DSCubed](https://www.dscubed.org.au/), University of Melbourne (2024- Present)
-- [Earth Hero](https://www.earthhero.org/) (2024- Present)
+- [CISSA](https://www.cissa.org.au/), University of Melbourne (2024 - Present)
+- [DSCubed](https://www.dscubed.org.au/), University of Melbourne (2024 - Present)
+- [Earth Hero](https://www.earthhero.org/) (2024 - Present)
