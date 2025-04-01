@@ -34,5 +34,4 @@ I have worked full-time and part-time with various teams.
 - [ReWorld Earth](https://www.reworld.eco/) (2022 - Present)
 - Google Developer Student Clubs, University of Melbourne (2023)
 - [CISSA](https://www.cissa.org.au/), University of Melbourne (2024 - Present)
-- [DSCubed](https://www.dscubed.org.au/), University of Melbourne (2024 - Present)
 - [Earth Hero](https://www.earthhero.org/) (2024 - Present)
