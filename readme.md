@@ -22,6 +22,7 @@
 
 I have worked full-time and part-time with various teams.
 
+- [Layer](https://www.layerlicensing.com/)
 - [Virtetic](https://www.virtetic.com.au/)
 - [Openhouse](https://www.openhouse.study/)
 - [Thesys](https://www.thesys.dev/)
