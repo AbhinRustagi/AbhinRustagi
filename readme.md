@@ -1,4 +1,4 @@
-# Hello there, I'm Abhin! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px">
+# Hello there, I'm Abhin (AB) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px">
 
 **I'm a creative developer who loves building user-first software and helping computers think.**
 
@@ -8,7 +8,7 @@
 
 - **Languages**: Python, JavaScript, Typescript, Java, Go
 - **Frameworks**:
-    - FE: React, Next.js, Preact, Svelte, SvelteKit
+    - FE: React, Next.js, Svelte, SvelteKit
     - BE: Django, Flask, Node.js, Express.js
 - **DevOps**: Google Cloud, AWS, Docker
 - **Logging**: Datadog, NewRelic
