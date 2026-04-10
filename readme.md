@@ -15,11 +15,11 @@ I'm a full-stack engineer who started programming in 2017, came from a statistic
 | | |
 |---|---|
 | **Languages** | TypeScript, Python, Go, C# |
-| **Frontend** | React, Next.js, Angular, Tailwind CSS |
-| **Backend** | Django, Node.js, Elysia, GraphQL, Hasura |
-| **Data** | PostgreSQL, BigQuery, Firebase, Neon |
-| **Cloud** | AWS, Google Cloud, Azure, Cloudflare |
-| **Other** | Docker, Bun, Unity |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Django, Node.js, Elysia, GraphQL |
+| **Data** | PostgreSQL, BigQuery, Firebase |
+| **Cloud** | AWS, Google Cloud, Cloudflare |
+| **AI** | Claude Code, Wispr |
 
 ### Notable work
 
