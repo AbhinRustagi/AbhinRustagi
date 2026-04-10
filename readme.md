@@ -1,15 +1,42 @@
-# Hello there, I'm Abhin (AB) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px">
+# Hey, I'm Abhin
 
-**I'm a creative developer who loves building user-first software and helping computers think.**
+I'm a full-stack engineer who started programming in 2017, came from a statistics background (not CS), and have been doing this professionally since 2021.
 
-✉️ [Email](mailto:hi@abhin.dev) • 🌐 [Website](https://www.abhin.dev/) • 👔 [LinkedIn](https://www.linkedin.com/in/abhinrustagi) • 🐦 [Twitter](https://www.twitter.com/abhinrustagi)
+[hi@abhin.dev](mailto:hi@abhin.dev) · [abhin.dev](https://abhin.dev) · [LinkedIn](https://www.linkedin.com/in/abhinrustagi) · [X](https://x.com/abhin_27)
 
-### 🛠️ What I usually work with
+---
 
-- **Languages**: Python, JavaScript, Typescript, Java, Go
-- **Frameworks**:
-    - FE: React, Next.js, Svelte, SvelteKit
-    - BE: Django, Flask, Node.js, Express.js
-- **DevOps**: Google Cloud, AWS, Docker
-- **Logging**: Datadog, NewRelic
-- **Databases**: Relational (SQL, PostgreSQL), Key-Value (Redis), NoSQL (MongoDB, Firebase)
+### Currently
+
+- Open to new opportunities
+
+### What I work with
+
+| | |
+|---|---|
+| **Languages** | TypeScript, Python, Go, C# |
+| **Frontend** | React, Next.js, Angular, Tailwind CSS |
+| **Backend** | Django, Node.js, Elysia, GraphQL, Hasura |
+| **Data** | PostgreSQL, BigQuery, Firebase, Neon |
+| **Cloud** | AWS, Google Cloud, Azure, Cloudflare |
+| **Other** | Docker, Bun, Unity |
+
+### Notable work
+
+**[SeeStone](https://abhin.dev/work/seestone)** — AI demand forecasting to help fashion brands predict what sells and reduce dead inventory. Next.js, TypeScript, Postgres, Gemini, Amazon Bedrock, AWS.
+
+**[SemiReal](https://abhin.dev/work/semireal)** — Interactive video platform with a custom node-based editor and player engine. Built the core stack; presented at SXSW Sydney 2025. Vanilla TypeScript, Elysia, Bun, Google Cloud, Cloudflare.
+
+**[Virtetic](https://abhin.dev/work/virtetic)** — Medical VR for limb-loss rehabilitation. Built a geo-compliant data gateway that handles medical data regulations across regions. Unity, C#, Google Cloud, BigQuery.
+
+**[Openhouse](https://abhin.dev/work/openhouse)** — After-school learning platform (edtech). Built payment subscription systems and an internal data warehousing service. Python, Django, Go, PostgreSQL, AWS.
+
+### Speaking
+
+- **Generative UI with React** — React Meetup Melbourne, 2026
+- **Getting Started with React** — Google Developer Student Club, University of Melbourne, 2024
+
+### Writing
+
+I (sometimes) write about development, systems thinking, and building products on my [blog](https://abhin.dev/blog).
+
