@@ -9,6 +9,7 @@ I'm a full-stack engineer who started programming in 2017, came from a statistic
 ### Currently
 
 - Open to new opportunities
+- Getting into Open Source
 
 ### What I work with
 
