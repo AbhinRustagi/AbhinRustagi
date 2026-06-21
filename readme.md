@@ -1,26 +1,8 @@
-# Hey, I'm Abhin
-
 I'm a full-stack engineer who started programming in 2017, came from a statistics background (not CS), and have been doing this professionally since 2021.
 
 [hi@abhin.dev](mailto:hi@abhin.dev) · [abhin.dev](https://abhin.dev) · [LinkedIn](https://www.linkedin.com/in/abhinrustagi) · [X](https://x.com/abhin_27)
 
 ---
-
-### Currently
-
-- Open to new opportunities
-- Getting into Open Source
-
-### What I work with
-
-| | |
-|---|---|
-| **Languages** | TypeScript, Python, Go, C# |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Django, Node.js, Elysia, GraphQL |
-| **Data** | PostgreSQL, MongoDB, Firebase |
-| **Cloud** | AWS, Google Cloud, Cloudflare |
-| **AI** | Claude Code, Wispr |
 
 ### Notable work
 
